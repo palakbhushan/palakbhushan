@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Palak Bhushan!  
+# 👋 Hello, I'm Palak Bhushan!                                                                                                    ![Profile Views](https://komarev.com/ghpvc/?username=palakbhushan&color=blue&style=flat-square)
+
 
 Dynamic **Software Engineer** with 3+ years of experience in **backend development**, **cloud solutions**, and **performance optimization**. I thrive on solving complex challenges, building scalable systems, and continuously learning to stay at the cutting edge of technology.
 
@@ -50,8 +51,6 @@ Dynamic **Software Engineer** with 3+ years of experience in **backend developme
 
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palakbhushan&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=palakbhushan&color=blue&style=flat-square)
-
 ---
 
 ### 💡 **Fun Facts**

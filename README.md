@@ -80,7 +80,7 @@ Dynamic **Software Engineer** with 3+ years of experience in **backend developme
 ---
 
 ### 📄 **Resume**
-📜 [View My Resume](https://github.com/palakbhushan/resume.pdf)
+📜 [View My Resume](https://github.com/palakbhushan/palakbhushan/blob/master/resume.pdf)
 
 ---
 
